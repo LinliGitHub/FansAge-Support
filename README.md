@@ -17,4 +17,4 @@
 
 
 ### 4. 用户服务协议 (User Agreement)
-您可以在此处查看我们的隐私政策：https://app.myfz.me/user-agreement.html
+您可以在此处查看我们的用户服务协议：https://app.myfz.me/user-agreement.html
