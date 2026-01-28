@@ -1,2 +1,20 @@
-# FansAge-Support
-Fans Age App Support Project
+# 技术支持 / Support for 粉时 (Fans Age)
+
+感谢您使用粉时！如果您在使用过程中遇到任何问题，或对我们的“主播名片分享”与“交易服务”有任何建议，请通过以下方式联系我们。
+
+### 1. 联系方式 (Contact Us)
+- **客服邮箱**: support@myfz.me
+- **响应时间**: 我们通常会在 24-48 小时内回复您的邮件。
+
+### 2. 常见问题 (FAQ)
+- **如何保存名片海报？**
+  在主播详情页点击“保存海报”按钮，App 会请求您的相册权限并自动将生成的高清海报保存至相册。
+- **如何举报违规内容？**
+  如果您发现任何违规内容，可以点击右上角菜单选择“举报”或“拉黑”该用户。
+
+### 3. 隐私政策 (Privacy Policy)
+您可以在此处查看我们的隐私政策：https://app.myfz.me/privacy-policy.html
+
+
+### 4. 用户服务协议 (User Agreement)
+您可以在此处查看我们的隐私政策：https://app.myfz.me/user-agreement.html
