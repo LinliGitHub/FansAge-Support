@@ -13,8 +13,8 @@
   如果您发现任何违规内容，可以点击右上角菜单选择“举报”或“拉黑”该用户。
 
 ### 3. 隐私政策 (Privacy Policy)
-您可以在此处查看我们的隐私政策：https://app.myfz.me/privacy-policy.html
+您可以在此处查看我们的隐私政策：https://pro.myfz.me/privacy-policy.html
 
 
 ### 4. 用户服务协议 (User Agreement)
-您可以在此处查看我们的用户服务协议：https://app.myfz.me/user-agreement.html
+您可以在此处查看我们的用户服务协议：https://pro.myfz.me/user-agreement.html
